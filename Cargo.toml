@@ -1,0 +1,9 @@
+[package]
+name = "akizuki"
+version = "0.1.0"
+authors = ["naoei <altenyt@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+structopt = "0.3"
+
